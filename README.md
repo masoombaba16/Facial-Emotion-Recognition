@@ -19,6 +19,7 @@ This project combines computer vision and deep learning to recognize emotions fr
 3. recommend.py: Logic for emotion-based music recommendation
 4. utils/: Helper functions and preprocessing scripts
 5. dataset/: Facial expression image dataset used for training
+
 **How to Run**
 1. Clone this repository
 2. Install dependencies:
