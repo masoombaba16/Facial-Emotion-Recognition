@@ -1,5 +1,7 @@
 **Facial Emotion Recognition & Song Recommendation System**
 
+**Dataset Link :** https://drive.google.com/drive/folders/11G5-DraTxqry6swVVnuwOiUHyqxph_H4?usp=sharing
+
 An intelligent system that captures facial expressions in real-time, detects emotional states using deep learning models (CNN + LSTM), and recommends songs tailored to the user's mood.
 
 **Overview**
