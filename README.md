@@ -1,18 +1,25 @@
 **Facial Emotion Recognition & Song Recommendation System**
+
 An intelligent system that captures facial expressions in real-time, detects emotional states using deep learning models (CNN + LSTM), and recommends songs tailored to the user's mood.
+
 **Overview**
+
 This project combines computer vision and deep learning to recognize emotions from facial expressions and recommends music accordingly to enhance user experience and emotional well-being.
+
 **Features**
+
 1. Real-time facial emotion detection via webcam using OpenCV
 2. Emotion classification with CNN + LSTM deep learning models (88.84% accuracy)
 3. Personalized music recommendation mapped to emotion categories
 3. Built with Python and powerful ML/DL libraries for efficient inference
+   
 **Tech Stack**
 1. Python
 2. OpenCV
 3. TensorFlow / Keras
 4. CNN + LSTM
 5. NumPy, Pandas, Matplotlib (for data handling and visualization)
+   
 **Project Structure**
 1. emotion_model.h5: Trained deep learning model
 2. realtime.py: Script for real-time emotion detection
@@ -38,4 +45,5 @@ Emotions Supported
 6. Fear
 
 **Music Mapping**
+
 Each emotion is mapped to a playlist or set of songs using pre-defined logic or APIs (e.g., Spotify or local file system).
